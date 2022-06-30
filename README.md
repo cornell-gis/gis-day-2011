@@ -1,5 +1,7 @@
 # GIS Day 2011
 
+![GIS Day 2011 event graphic](image/gis-day-2011-slide.jpg)
+
 Wednesday, November 16, 2011 \
 Mann Library 102
 
